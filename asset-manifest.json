@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eden-onboarding/static/css/main.05fc9ca6.css",
+    "main.css": "/eden-onboarding/static/css/main.9a782fe7.css",
     "main.js": "/eden-onboarding/static/js/main.a4067e76.js",
     "index.html": "/eden-onboarding/index.html",
-    "main.05fc9ca6.css.map": "/eden-onboarding/static/css/main.05fc9ca6.css.map",
+    "main.9a782fe7.css.map": "/eden-onboarding/static/css/main.9a782fe7.css.map",
     "main.a4067e76.js.map": "/eden-onboarding/static/js/main.a4067e76.js.map"
   },
   "entrypoints": [
-    "static/css/main.05fc9ca6.css",
+    "static/css/main.9a782fe7.css",
     "static/js/main.a4067e76.js"
   ]
 }
